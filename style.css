@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+ol{
+    display: inline-block;
+}
+
+ul{
+    display: inline-block;
+}
+body{
+    background-color:darkseagreen;
+}
+
+hr{
+    
+    width: 400px;
+    color:gold;
+}
+input[type="submit"]{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: #0056b3;
+}
+
+
